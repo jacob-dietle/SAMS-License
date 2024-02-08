@@ -1,4 +1,4 @@
-Source Available Commercial Safe Software License (SACSSL) version 1.0 License. 
+Source Available Commercial Safe Software License (SACS) version 1.0 License. 
 
 This license is intended to:
 
