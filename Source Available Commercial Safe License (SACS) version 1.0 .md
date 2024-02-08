@@ -1,6 +1,6 @@
-Source Available Modifiable Software License (SAMS) version 1.0 
+Source Available Commercial Safe License (SACS) version 1.0 
 
-This Source Available Modifiable Software License version 1.0 (this “Agreement”) sets forth the terms on which [AUTHOR] makes available certain software (the “Software”). By installing, downloading, accessing, using, or distributing the Software, you agree to the terms of this Agreement. If you do not agree to such terms, you must not use the Software.
+This Source Available Commercial Safe License version 1.0 (this “Agreement”) sets forth the terms on which [AUTHOR] makes available certain software (the “Software”). By installing, downloading, accessing, using, or distributing the Software, you agree to the terms of this Agreement. If you do not agree to such terms, you must not use the Software.
 
 If you are receiving the Software on behalf of a legal entity, you represent and warrant that you have the actual authority to agree to the terms and conditions of this Agreement on behalf of such entity. “Licensee” means you, an individual, or the entity on whose behalf you are receiving the Software.
 
@@ -14,7 +14,7 @@ a. Any commercial usage of the Software, that is not granted as an "Explicitly G
 
 1.2 Licensee is explicitly granted the right to: 
 
-a. Non- commercial  Usage. Licensee may use the Software for personal, non-commercial purposes, without limitation. Either by self-hosting, or using a third party service as an Intermediary as defined below.
+a. Non-commercial  Usage. Licensee may use the Software for personal, non-commercial purposes, without limitation. Either by self-hosting, or using a third party service as an Intermediary as defined below.
 
 b. Make modifications to the Software. Licensee may add its own copyright notices to modifications made by Licensee and may provide additional or different license terms and conditions for use, reproduction, or distribution of Licensee’s modifications. While redistributing the Software or modifications thereof, Licensee may choose to offer, for a fee or free of charge, support, warranty, indemnity, or other obligations. Licensee, and not [AUTHOR], will be responsible for any such obligations.
 
@@ -113,23 +113,23 @@ Permissive Licensing Requests. Licensees may request more permissive usage right
 
 END OF AGREEMENT ("Agreement")
 
-The below section is for information and licensing related to the SAMS License itself, solely. It should should not be interpreted to further define, inform, provide definitions, outline or otherwise make material changes to the above Agreement. It is demarcated by a "---"
+The below section is for information and licensing related to the SACS License itself, solely. It should should not be interpreted to further define, inform, provide definitions, outline or otherwise make material changes to the above Agreement. It is demarcated by a "---"
 
 ---
 
-Source Available Modifiable Software License (SAMS) version 1.0 License.
+Source Available Commercial Safe License (SACS) version 1.0 License.
 
 IN NO WAY SHALL THIS SECTION BE INTERPRETED TO MAKE MATERIAL IMPACT UPON, GRANT LICENSING NOT SPECIFICALLY DEFINED IN THE ABOVE LICENSE OR OTHERWISE PERTAIN TO THE SOFTWARE (defined above as "Software").
 
-The text of Source Available Modifiable Software License (SAMS) version 1.0 ("SAMS License"), excluding the Software to which it applies, is made available under the following terms: 
+The text of Source Available Commercial Safe License (SACS) version 1.0 ("SACS License"), excluding the Software to which it applies, is made available under the following terms: 
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of the SAMS License, to deal in the SAMS LICENSE, and solely the SAMS LICENSE, without relation to the Software it is being to license, without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the SAMS License, and to permit persons to whom the SAMS License is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of the SACS License, to deal in the SACS LICENSE, and solely the SACS LICENSE, without relation to the Software it is being to license, without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the SACS License, and to permit persons to whom the SACS License is furnished to do so, subject to the following conditions:
 
-THE SAMS LICENSE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SAMS LICENSE OR THE USE OR OTHER DEALINGS IN THE SAMS LICENSE. USAGE OF THE SAMS LICENSE DOES NOT IMPLY AN ATTORNEY CLIENT RELATIONSHIP, NOR WILL THE AUTHOR BE LIABLE FOR ANY DAMAGES RELATED TO USAGE OF THE SAMS LICENSE.
+THE SACS LICENSE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SACS LICENSE OR THE USE OR OTHER DEALINGS IN THE SACS LICENSE. USAGE OF THE SACS LICENSE DOES NOT IMPLY AN ATTORNEY CLIENT RELATIONSHIP, NOR WILL THE AUTHOR BE LIABLE FOR ANY DAMAGES RELATED TO USAGE OF THE SACS LICENSE.
 
-This permission is granted to facilitate the reuse of the licensing framework herein for other works, provided that such reuse does not imply that the Software covered by this License is licensed under the terms in which the SAMS License is made available,  or any terms other than those explicitly stated in this License. 
+This permission is granted to facilitate the reuse of the licensing framework herein for other works, provided that such reuse does not imply that the Software covered by this License is licensed under the terms in which the SACS License is made available,  or any terms other than those explicitly stated in this License. 
 
-IN NO WAY SHALL THIS SECTION BE INTERPRETED TO GRANT SAMS LICENSING TO THE SOFTWARE (defined above as "Software").
+IN NO WAY SHALL THIS SECTION BE INTERPRETED TO GRANT SACS LICENSING TO THE SOFTWARE (defined above as "Software").
 
 Information.
 
